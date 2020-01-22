@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonarsource.sonarqube:sonar-plugin-api:8.1.0.31237" level="project" />
+    <orderEntry type="library" name="Maven: org.sonarsource.scanner.maven:sonar-maven-plugin:3.7.0.1746" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-sec-dispatcher:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-cipher:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sonarsource.scanner.api:sonar-scanner-api:2.14.0.2002" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:10.0.0.alpha1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:10.0.0.alpha1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:10.0.0.alpha1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:10.0.0.alpha1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.4.22.v20191022" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.4.22.v20191022" level="project" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>

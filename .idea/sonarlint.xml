@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="additionalProperties">
+      <map>
+        <entry key="Task" value="" />
+      </map>
+    </option>
+    <option name="analysisLogsEnabled" value="true" />
+    <option name="bindingEnabled" value="true" />
+    <option name="projectKey" value="Task" />
+    <option name="serverId" value="Task" />
+    <option name="verboseEnabled" value="true" />
+  </component>
+</project>
