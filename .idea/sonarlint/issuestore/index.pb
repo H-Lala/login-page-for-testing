@@ -9,8 +9,6 @@ k
 L.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_22_v20191022.xml,3\7\371e4bb328fa3f1958d85d47dca0da3cb5848ed2
 x
 H.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml,6\1\619eaf49aabee20954a65445b85c720c27f708b9
-O
-src/main/java/LoginServlet.java,3\3\3326a4172f8812484b607a6600e082c889934cc0
 x
 H.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_4.xml,3\d\3d3d73c2d18edc954098ad08e77a7f3708101004
 ~
@@ -23,8 +21,6 @@ N.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml
 Q.idea/libraries/Maven__org_sonarsource_sonarqube_sonar_plugin_api_8_1_0_31237.xml,e\8\e828d0bef407ffcc2fd6dabacb659935f4ca3ec1
 w
 G.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml,f\2\f2a75b91a01980b50fa19118e15ff23fdea94f5e
-I
-src/main/java/WebApp.java,0\6\06b1f9726150bccbb2d980a6aceee211ed27e08f
 w
 G.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml,d\d\dd7791d8680fb58193ad5e1b69be3cb6f3d200a4
 y
@@ -55,3 +51,27 @@ F
 src/content/login.html,0\7\07d9e50f3db47444b9cd1844d7cb74cdeea87a6e
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Z
+*src/main/java/SomeStuffs/LoginServlet.java,e\5\e5e23fe3a2f17b84f3dd003dbbca856fc1c17dc5
+T
+$src/main/java/SomeStuffs/WebApp.java,0\9\09e6d978438ee437a981398b94a8131c00b881f8
+M
+src/main/java/WebApp/App.java,b\d\bdab5be70d251c4cfa8c2be6495bbe39317420fa
+_
+/src/main/java/WebApp/servlets/LoginServlet.java,d\0\d0e86b6334b829f52b327b155795d87cb6822696
+X
+(src/main/java/WebApp/cookie/Cookies.java,5\5\55f7fccefa268320373173bbaa3eec285217e796
+W
+'src/main/java/WebApp/filter/Filter.java,b\2\b2eb2d9f0d2b6e6260b8a982ff81b59976efa6cc
+`
+0src/main/java/WebApp/servlets/LogoutServlet.java,f\1\f11204febfa5f24417549d161f7232034532e9ee
+U
+%src/main/java/WebApp/entity/User.java,4\0\40ea7a58adca09dcefc9f81212cd16e30730472c
+]
+-src/main/java/WebApp/freemaker/FreeMaker.java,9\f\9f7fbaae59747fd63ed76150c48bbae2ece61301
+Q
+!src/main/java/WebApp/dao/Dao.java,b\2\b2b95b88260729a659bb6bc5fc72370ba74099c6
+X
+(src/main/java/WebApp/dao/daoUserSql.java,8\5\85f59561f53b118f8074d6e59785ce65bf626c97
+Y
+)src/main/java/WebApp/db/DbConnection.java,3\9\39efe5f07e4310ea9e35625ff1db17aaa5954426
