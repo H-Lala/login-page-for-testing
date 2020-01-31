@@ -23,11 +23,17 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes />
+    <loaded-nodes>
+      <connection connection-id="ed301874-d7e2-43bf-9fcf-5661cc05cb98">
+        <schema name="information_schema" object-types="function, dataset trigger, table, constraint, index, column, view, sequence" />
+        <schema name="pg_catalog" object-types="function" />
+        <schema name="public" object-types="function" />
+      </connection>
+    </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="ed301874-d7e2-43bf-9fcf-5661cc05cb98">
-      <console name="Database" type="STANDARD" schema="information_schema" session="Main"><![CDATA[create table  user (
+      <console name="Database" type="STANDARD" schema="information_schema" session="Main">create table  user (
  id int,
  nama text ,
  surname text,
@@ -36,7 +42,7 @@
  password text
  
 
-);]]></console>
+);</console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
@@ -48,6 +54,7 @@
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="ed301874-d7e2-43bf-9fcf-5661cc05cb98" dataset="shcema.users" active-filter-id="" />
     <filter-actions connection-id="ed301874-d7e2-43bf-9fcf-5661cc05cb98" dataset="information_schema.users" active-filter-id="" />
+    <filter-actions connection-id="ed301874-d7e2-43bf-9fcf-5661cc05cb98" dataset="information_schema.test" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />

@@ -1,4 +1,2 @@
 
-~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È±¶þÿÿÿÿÿ8çÝÀ‰ÿ-
-Nsquid:S1481"+Remove this unused "server" local variable.(©ÿ¡¿ÿÿÿÿÿ8çÝÀ‰ÿ-
-]squid:S1854":Remove this useless assignment to local variable "server".(©ÿ¡¿ÿÿÿÿÿ8çÝÀ‰ÿ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È±¶þÿÿÿÿÿ

@@ -1,6 +1,25 @@
 package WebApp.entity;
 
 public class User {
+    private int id;
+
+    public User(int id, String name, String surname, String username, String email, String password) {
+        this.id=id;
+        this.name = name;
+        this.surname = surname;
+        this.username = username;
+        this.email = email;
+        this.password = password;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     private String name;
     private String surname;
     private String username;
@@ -12,6 +31,11 @@ public class User {
         this.surname = surname;
         this.username = username;
         this.email = email;
+        this.password = password;
+    }
+
+    public User(String username, String password) {
+        this.username = username;
         this.password = password;
     }
 

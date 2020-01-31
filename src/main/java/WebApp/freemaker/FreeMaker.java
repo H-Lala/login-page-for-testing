@@ -40,6 +40,6 @@ private  Configuration configuration;
 
     }
     public FreeMaker(){
-        this("./content");
+        this("C:/Users/Lala/IdeaProjects/Task/src/content");
     }
 }
